@@ -7,12 +7,8 @@ using System.Threading.Tasks;
 
 namespace AtividadeAula07MaquinaDeCafe
 {
-
-
-
     internal class Program
     {
-
         /**
          * Dado o desafio seguinte:
          * 
@@ -23,8 +19,7 @@ namespace AtividadeAula07MaquinaDeCafe
          * 
          * Encontrei como solução para o desafio utilizar uma variável global "valorNaMaquina" e uma variável local "valorAuxiliar".
          **/
-
-
+        
         // Variável global para armazenar o valor que sobrar na máquina.
         public static double valorNaMaquina = 0;
 
@@ -40,8 +35,7 @@ namespace AtividadeAula07MaquinaDeCafe
             int opcao;
 
             double valorAuxiliar;
-
-
+            
             //"valorNaMaquina.ToString("C")" converte o valor dessa variável em string e a transforma em valor monetário (R$ 0,00).
             Console.WriteLine("\n___________________________________");
             Console.WriteLine("\nBem-vindo ao CaféJá");
@@ -71,7 +65,6 @@ namespace AtividadeAula07MaquinaDeCafe
             Console.Clear();
 
             Console.WriteLine("___________________________________\n");
-
 
             valorAuxiliar = valorNaMaquina + pagamento;
 
