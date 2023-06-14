@@ -1,0 +1,8 @@
+C:\Users\Dudu\source\repos\AtividadeAula07MaquinaDeCafe\AtividadeAula07MaquinaDeCafe\bin\Debug\AtividadeAula07MaquinaDeCafe.exe.config
+C:\Users\Dudu\source\repos\AtividadeAula07MaquinaDeCafe\AtividadeAula07MaquinaDeCafe\bin\Debug\AtividadeAula07MaquinaDeCafe.exe
+C:\Users\Dudu\source\repos\AtividadeAula07MaquinaDeCafe\AtividadeAula07MaquinaDeCafe\bin\Debug\AtividadeAula07MaquinaDeCafe.pdb
+C:\Users\Dudu\source\repos\AtividadeAula07MaquinaDeCafe\AtividadeAula07MaquinaDeCafe\obj\Debug\AtividadeAula07MaquinaDeCafe.csproj.AssemblyReference.cache
+C:\Users\Dudu\source\repos\AtividadeAula07MaquinaDeCafe\AtividadeAula07MaquinaDeCafe\obj\Debug\AtividadeAula07MaquinaDeCafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dudu\source\repos\AtividadeAula07MaquinaDeCafe\AtividadeAula07MaquinaDeCafe\obj\Debug\AtividadeAula07MaquinaDeCafe.csproj.CoreCompileInputs.cache
+C:\Users\Dudu\source\repos\AtividadeAula07MaquinaDeCafe\AtividadeAula07MaquinaDeCafe\obj\Debug\AtividadeAula07MaquinaDeCafe.exe
+C:\Users\Dudu\source\repos\AtividadeAula07MaquinaDeCafe\AtividadeAula07MaquinaDeCafe\obj\Debug\AtividadeAula07MaquinaDeCafe.pdb
